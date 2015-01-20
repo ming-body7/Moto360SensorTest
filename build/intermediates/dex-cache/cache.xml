@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mxu24\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\wear\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-1175d9149be62a89a7d996751abd521a23d09949.jar" />
+    </item>
+    <item
+        jar="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\wear\build\intermediates\pre-dexed\debug\classes-0bd714a1905b36b60b102ae0de2e7c5637bfccd7.jar" />
+    </item>
+    <item
+        jar="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\wear\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\wear\build\intermediates\pre-dexed\debug\classes-93951eb6f5726bfbade45f88e81e25bd436b643d.jar" />
+    </item>
+    <item
+        jar="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\mobile\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-41eb667ee4f5f0d971f772f79282f995a913c3ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\mxu24\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\mobile\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-168f22d6171796a7e5193bc5b5abdcbc3f309727.jar" />
+    </item>
+    <item
+        jar="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\mobile\build\intermediates\pre-dexed\debug\classes-f4b89df6ee78d1f422eb44b1fd0022bed20bf463.jar" />
+    </item>
+    <item
+        jar="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\wear\build\intermediates\pre-dexed\debug\classes-16d90976a0a8c3486a659685bf0a46a819c8edc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\wear\build\intermediates\pre-dexed\debug\classes-9d86afafeb00ffbf8cbd4f0aa168cf2d3f0817d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\wear\build\intermediates\pre-dexed\debug\classes-a0a8a1d5dc316c60827da5d3d056d6b9590f1eb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\mobile\build\intermediates\pre-dexed\debug\classes-8a4dd77c05c0b404de9e2323334ec523a6678882.jar" />
+    </item>
+    <item
+        jar="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\mobile\build\intermediates\pre-dexed\debug\classes-f50f08811126d0ac925c72ebdc53dd7d22235294.jar" />
+    </item>
+    <item
+        jar="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\wear\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\mxu24\Documents\GitHub\Moto360SensorTest\wear\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-0d055a8eed648db572599b0d18c1eef1a154bd3e.jar" />
+    </item>
+
+</items>
